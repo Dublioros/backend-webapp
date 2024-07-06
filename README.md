@@ -48,7 +48,7 @@
 <h2>Instalación</h2>
 <ol>
     <li>Clona el repositorio:
-        <pre><code>git clone https://github.com/tu_usuario/backend-webapp.git
+        <pre><code>git clone https://github.com/dublioros/backend-webapp.git
 cd backend-webapp
         </code></pre>
     </li>
